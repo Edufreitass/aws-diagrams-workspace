@@ -13,6 +13,10 @@ Materiais de apoio da skill:
 
 Use os nomes e caminhos dos arquivos que existem acima; eles correspondem às referências citadas na skill.
 
+## Local dos diagramas gerados
+
+- Salve em `diagrams/`, na raiz do workspace, os diagramas criados pelos agentes. Preserve os arquivos existentes nesse diretório e não coloque novos diagramas gerados em outros locais, salvo solicitação explícita do usuário.
+
 ## Regras para tarefas de diagramas AWS
 
 - Entenda o estado atual e o objetivo do diagrama antes de editar. Releia o arquivo imediatamente antes de cada lote de alterações e preserve conteúdo, IDs, estilos, páginas e mudanças recentes do usuário sempre que possível.
